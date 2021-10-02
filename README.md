@@ -1,0 +1,2 @@
+# Consultadd_360_training_python
+Consultadd Python Assingments
